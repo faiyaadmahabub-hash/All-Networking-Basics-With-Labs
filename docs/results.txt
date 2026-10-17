@@ -1,0 +1,34 @@
+PASS: 30 non-empty Packet Tracer files: 28 activities, 2 topologies.
+Activity counts by filename module: {"1": 1, "10": 4, "11": 4, "12": 2, "13": 3, "14": 1, "16": 2, "17": 4, "2": 6, "3": 1, "4": 2}
+Total bytes: 14543515
+af5e186be8c96f45e2e5838b828d3bf7ef41f5379624901e56921e7debf7ff2c 1.5.7 Packet Tracer - Network Representation.pka
+69a43d1c248cb939cbe9067662f6be46725f8017881337c09766f9a79865d881 10.1.4 Packet Tracer - Configure Initial Router Settings.pka
+f6bbadab33ab1d594f6c3cd5600bbf5fe626d87fe77fc2339800c07b53727c24 10.3.4 Packet Tracer - Connect a Router to a LAN.pka
+b0651a317dd736c0ff4bd91c3b050e4f363890c589bd2e28a282db82e23059ef 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues.pka
+d27d81a9f65502add9d55f70297f08945b5737b1a2118cd61555f3e89970d63c 10.4.3 Packet Tracer - Basic Device Configuration.pka
+3e80d00f59c9a79333e4a03ed8967bac80026496dc03c7e88a865557c10d8fac 11.10.1 Packet Tracer - Design and Implement a VLSM Addressing Scheme.pka
+dabc3d58ec6407b0dee75a56036d025cfec2b92b5f9f8e50e368031e1e0e99bf 11.5.5 Packet Tracer - Subnet an IPv4 Network.pka
+56f683af0841190fad09b877ffe89edd7dbf73bd6b752d26fc50a37e25c87518 11.7.5 Packet Tracer - Subnetting Scenario.pka
+42a004a49d4109efcbbcdbd51eebd378023e6db2e206f91869c6c5b127951a35 11.9.3 Packet Tracer - VLSM Design and Implementation Practice.pka
+7498b61836d628fc01d7045da31d0c6a2e04f1690c5f720f129319ee348959c5 12.6.6 Packet Tracer - Configure IPv6 Addressing.pka
+0b4ecb9654b426bdec951fd342faf0b2bcd8577d02a24dbd40bc9446de884087 12.9.1 Packet Tracer - Implement a Subnetted IPv6 Addressing Scheme.pka
+86145af09b1f91822fe34a22bc5a453a7ee8a4005e6c203d6a8a4bdea1faa816 13.2.6 Packet Tracer - Verify IPv4 and IPv6 Addressing.pka
+f81f4b0e8e63a89ebcbe5d02a88a882baa948a9e47c5b77524a8d6455e6bf64c 13.2.7 Packet Tracer - Use Ping and Traceroute to Test Network Connectivity.pka
+71e1c7a8e7d50fab4aed0f5bde470a27b122d1071ce77a6e2d396f00c3afd62d 13.3.1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity.pka
+e09be916a47ac8697de2b94026ce297526efe3926056e9930b9ee08d0f073ad2 14.8.1 Packet Tracer - TCP and UDP Communications.pka
+98ad1627bad7514176eb9c6311ad940e8e3038b3c0c59588eb7936431ce40b0f 16.4.6 Packet Tracer - Configure Secure Passwords and SSH.pka
+76e3d11a25adc4bc5677e42a032a797f2d8ded901af77511b7586cd868257080 16.5.1 Packet Tracer - Secure Network Devices.pka
+41c21a974ff96ecad22d3c982af47d298f4294c4b9e2104e1c18c4376e408681 17.5.9 Packet Tracer - Interpret show Command Output.pka
+68f30bb3a86784bc2eaee6edfa82aad032e5a526bcd48b229112232efbeec37e 17.7.7 Packet Tracer - Troubleshoot Connectivity Issues.pka
+6973148f5bfc0af2da360e722325fe7a3b8af96aaf33056449061b4072c3a9cb 17.8.2 Packet Tracer - Skills Integration Challenge.pka
+acd1e85f8c0b588123ca50f791943d9bf50f23edaff8baeef28c8bbc865ddd3c 17.8.3 Packet Tracer - Troubleshooting Challenge.pka
+9f4811628000fb0c3e0656c9fa942116c372245228db7dc52bd2ff97d04dd710 2.3.7 Packet Tracer - Navigate the IOS.pka
+74aed02c7c6884b0d15e13ee5425f9bbe79fbb9e2c3e094a44545ec236d68697 2.5.5 Packet Tracer - Configure Initial Switch Settings.pka
+7302af289b8caf3673197b03c7df301bb0fb8984fd16fbeb5ea2d510fa012348 2.7.6 Packet Tracer - Implement Basic Connectivity.pka
+73e70c080c3a499e2af713aa0ea30963cd93265a4f704dcac708a4b2e2080359 2.8.1 Video Activity - Test the Interface Assignment.pkt
+cc2658dec24210169109aa88eb625f94b97fa871c6fd0f451622c87bea7d43a4 2.8.2 Video Activity - Test End-to-End Connectivity.pkt
+13a4a77a9c78b52c80cd7b564d5a44b657b1f6235727e22bb90e1f8ecd6bfb2d 2.9.1 Packet Tracer - Basic Switch and End Device Configuration.pka
+0e0f9ea3a0191372346ab206a4632dfd09f016f03446b97119e110e8018346f8 3.5.5 Packet Tracer - Investigate the TCP-IP and OSI Models in Action.pka
+afefdc6159c2afe24b8db2b464d134ddc5f79f3978d401557e1f72264df3f8a1 4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka
+3836f9f7f22b069faf3fb843b23b386e32964cb5a78d0556c768df8c9946d644 4.7.1 Packet Tracer - Connect the Physical Layer.pka
+NOT RUN: activity scoring, device configuration completion or live connectivity tests.
